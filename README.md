@@ -1,4 +1,4 @@
-# Short course CNC2021
+# Short course Channel Network Conference 2021
 ## Co-data learning in high dimensional prediction problems
 
 This repository contains the slides and practicals for the workshop on 
